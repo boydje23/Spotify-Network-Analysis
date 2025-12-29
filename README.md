@@ -6,4 +6,4 @@ Each entry contains data such as the song title, artist name(s), stream counts, 
 
 Below is the resaerch conclusins and how I set up the network: 
 
-[Complex Networks Final Report (1).pdf](https://github.com/user-attachments/files/24372113/Complex.Networks.Final.Report.1.pdf)
+[Spotify Network Analysis.pdf](https://github.com/user-attachments/files/24372113/Complex.Networks.Final.Report.1.pdf)
